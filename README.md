@@ -50,10 +50,10 @@ Each dataset folder contains:
 ## Citation
 
 ```bibtex
-@article{chen2024contrastive,
-  title={Contrastive Dimension Reduction: A Systematic Review},
-  author={Chen, Jiawen and Zhang, Eric and Didong, Li},
+@article{hawke2025contrastive,
+  title={Contrastive dimension reduction: A systematic review},
+  author={Hawke, Sam and Zhang, Eric and Chen, Jiawen and Li, Didong},
   journal={arXiv preprint arXiv:2510.11847},
-  year={2024}
+  year={2025}
 }
 ```
