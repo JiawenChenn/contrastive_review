@@ -43,7 +43,7 @@ Each dataset folder contains:
 
 ## Datasets
 
-- **MNIST** — Handwritten digit images (foreground: digits 2 & 3, background: digits 0 & 1)
+- **MNIST** — Handwritten digit images
 - **Mouse Protein Expression** — Protein expression levels in mouse cortex (Higuera et al., 2015)
 - **Small Molecule (Mixseq)** — Single-cell gene expression under drug perturbation (McFarland et al., 2020)
 
